@@ -1,0 +1,123 @@
+# How the vocab test works
+
+## Table of contents
+
+[How does it work?](https://preply.com/en/learn/english/test-your-vocab/how-it-works#how-does-it-work)
+
+[What is a word?](https://preply.com/en/learn/english/test-your-vocab/how-it-works#what-is-a-word)
+
+[How were words ranked?](https://preply.com/en/learn/english/test-your-vocab/how-it-works#how-were-words-ranked)
+
+[Which sample words were chosen?](https://preply.com/en/learn/english/test-your-vocab/how-it-works#sample-words)
+
+[What is the margin of error?](https://preply.com/en/learn/english/test-your-vocab/how-it-works#margin-of-error)
+
+The most accurate way to count your vocabulary would be to go through all 45,000+ words and count how many you knew. But that would take a long time.
+
+The next easiest way would be to check, say, every hundredth word, around 450 in total. But that's still a rather long list, and it won't be very accurate at all for young children or foreign learners who might be lucky to know just 1 or 2 in the list.
+
+So what we do is to test vocabulary in two steps. In the first, we pick around 40 words, stretching from the easiest to hardest words in English. This gives us a general idea of your vocabulary level. We then present a second narrower set of words, sorted by frequency, in a range where we think you'll know all the initial ones, none of the final ones, but have a wide mix of both in the middle. By testing you in this narrower range, we can come up with a quite accurate vocabulary estimate for people of any level.
+
+## How does it work?
+
+We have a dictionary with over 45,000 entries, with words arranged in order of their frequency in English speech and writing. For example, it starts out:
+
+1. the
+2. and
+3. I
+4. to
+
+And later on, for example:
+
+8,001. preface
+8,002. scooter
+8,003. recite
+8,004. exemplify
+
+The most accurate way to count your vocabulary would be to go through all 45,000+ words and count how many you knew. But that would take a long time.
+
+The next easiest way would be to check, say, every hundredth word, around 450 in total. But that's still a rather long list, and it won't be very accurate at all for young children or foreign learners who might be lucky to know just 1 or 2 in the list.
+
+So what we do is to test vocabulary in two steps. In the first, we pick around 40 words, stretching from the easiest to hardest words in English. This gives us a general idea of your vocabulary level. We then present a second narrower set of words, sorted by frequency, in a range where we think you'll know all the initial ones, none of the final ones, but have a wide mix of both in the middle. By testing you in this narrower range, we can come up with a quite accurate vocabulary estimate for people of any level.
+
+To understand how we come up with the exact number at the end, let's start with an analogy. Imagine you have the whole dictionary of 45,000+ words, with words arranged in order from most-common to least-common, and you mark all the words you know. At the end, you go back, and discover that at exactly word #15,000, there are 2,000 words that came earlier (more common words) which you didn't know. And at word #15,000, there are 2,000 words which come afterwards (less common words) which you do know. The 2,000 after which you do know cancel out the 2,000 before you don't, and in the end it means you know 15,000 words.
+
+We follow the same principle, but using only a small sample of words (around 120) to achieve the same result. Among all the words you check in the second step, we find which word (say, #55) has the same number of blank checkboxes before it (say, 18), as it has checked boxes after it (again, 18). We then look up the frequency rank of this "midpoint" word #55, which turns out to be #15,000, which means that you know 15,000 words.
+
+In reality, the math is actually a bit more complicated than that, because the sample words are distributed logarithmically in rank instead of linearly, but the basic concept is the same.
+
+## What is a word?
+
+Measuring the size of someone's vocabulary isn't easy. After all, when someone asks "How many words do I know?" that depends on what exactly you mean by a word. And while that might seem as silly as when Bill Clinton wondered what the meaning of the word 'is' is, it's actually more complicated than you might think.
+
+Let's start with an easy example: do "jump" and "jumped" count as one word or as two? In this case, it's pretty easy to decide that they only count as one, because "jumped" is a regular inflection of "jump"—you don't have to learn it as a separate word to know how to use it.
+
+But what about "give" and "gave"? This time, the past tense is irregular (not "gived") and needs to be learned separately, so it might be a good idea to count "give" and "gave" as two words.
+
+But now things get more complicated. What about turning verbs into adjectives ("derive" into "derived"), adjectives into adverbs ("quick" into "quickly"), or verbs into nouns ("evict" into "eviction")? Or take prefixes, like changing "examine" into "reexamine"—you can add "re-" to almost any verb, right? Or can you—Jack and Jill "rejumped?" Then, take "unhappy"—is this an obvious transformation of "happy," or a separate word? Well it might seem obvious, but so might "nonhappy" and "happyless" for someone who didn't know any better.
+
+And what about proper nouns? Is "France" a word? It might seem like it should count as part of your vocabulary, but if we include it then we ought to include Paris too and other cities... all the way down to Castelmoron-d'Albret (pop. 57). So, better not to include any of them. But then the funny thing is that "French" is not a proper noun, because it is a word for a kind of person, and not a regular derivation of "France." And words like "November," while technically proper nouns, are such integral parts of the language that there's no way not to include them.
+
+And finally, what about phrases? Does "air conditioner" count as a word? We think it does, since it's used like one. But what about expressions, like "fork out" for spending money? After all, it doesn't have anything to do with forks. But then what about letting in expressions like "food for thought," which aren't entirely obvious, or non-obvious?
+
+Much better minds than ours have thought about these problems, specifically the people who write dictionaries. They've conveniently put "quickly" as a subentry under the main entry "quick", and "unhappy" as a main entry of its own. "Air conditioner" has its own entry, but "fork out" is a subentry under "fork." And "France" is not an entry, but "November" is. So we've simply followed the guidance of an authoritative dictionary, and counted only main entries for estimated vocabulary size, not subentries.
+
+There's one more detail we haven't mentioned yet, which is the messy question of multiple meanings—you may know that nuns wear habits, but did you also know that they fly? Probably not, but "nun" is a kind of bird as well—so do you really know the word "nun?" You also probably didn't know that the Oxford English Dictionary lists 430 distinct meanings for the word "set" alone. It would be even more interesting if we could count the number of word definitions people know—but unfortunately that's just too complicated. There's no easy way to organize word definitions by frequency the way we can with words, and determining what are different word meanings, or just different usages of the same meaning, might be even more difficult than deciding what words are. So, we stick to just measuring the number of words which people simply know one definition for.
+
+## How were words ranked?
+
+We put more effort into this than perhaps we ought to have. Upon further reflection, it really doesn't matter at all exactly how you order dictionary definitions by frequency, as long as they're not completely random—you'll still end up with the same vocabulary estimate. On the other hand, the reference dictionary you choose does matter a good deal, since it determines what counts as a word and what doesn't, and so affects your final results proportionally. But even that doesn't matter too much if your goal is to have a useful tool for comparing vocabulary levels, which is our goal. But since we wanted to do everything reproducibly and "by the book," here were our steps:
+
+1. **Corpus**. Find a suitably large corpus of spoken and written text. We used the British National Corpus (BNC) because of its large size and large spoken component.
+
+2. **Dictionary**. Find a nice, authoritative dictionary. We used a British one, to match the mainly British spellings in the BNC. (None of our final test words are specifically British, however.)
+
+3. **Word counts**. Count the frequencies of every word in the corpus. A nice man named Adam Kilgarriff had already done this, making it freely available, so we used that (thanks, Adam!). To make the counts more realistic, we rebalanced the frequencies to be 1/3 "demographic" spoken (conversation), 1/3 "context-governed" spoken (meetings, lectures) and 1/3 written.
+
+4. **Derived forms**. The frequency list considers "quick" and "quickly" to be different forms, but our dictionary doesn't. So add the frequency counts of all derived forms (according to the dictionary) to their headwords, and throw away the derived forms.
+
+5. **Clean it up**. Throw away all words not found in the dictionary. This includes place names, people's names, and just general gibberish.
+
+6. **Finish**. Rank the resulting dictionary-matched entries by decreasing frequency.
+
+Even though our dictionary contains around 70,000 headwords (and many more derived forms), we were surprised to find only approximately 45,000 of them present in the 100-million-word BNC. It turns out that the rest of the dictionary is mainly either scientific or archaic terms, or rare but easy put-together words like "unrivaled." And the non-put-together words above 35,000 or so are, let us tell you, hard.
+
+## Which sample words were chosen?
+
+This is where it gets tricky. Ideally, we would have simply taken sample words at even (logarithmic) intervals, and tested those straight, without any human meddling. Unfortunately, a large majority of potential testing words had one or more problems, meaning we had to eliminate them:
+
+Deducible meaning. A word like "unhappy" is easy to figure out, even if you don't "know" it. For this reason, also no onomatopoeias.
+
+You think you know it, but... People will mark "dissemble" as known, not realizing it doesn't mean "disassemble." The same with "lessor" and "lesser." We even excluded "kitchen" because foreign learners of English often confuse it with "chicken".
+
+Too limited. Words that are specifically American or British (in meaning or spelling), or slang, or scientific/medical, or anything labeled archaic, or anything else that isn't part of broad, general English. Also, no animals or ingredients, which depend too much on where you live.
+
+No words rarely used alone. People get confused when they see a word like "lop," which is only used in a phrase like "lop off," so we eliminate these as well.
+
+And because we're using the same vocabulary list to test Brazilians learning English:
+
+No cognates or false-friends with Portuguese. This probably knocks out at least half the dictionary, since Romance languages have plenty in common with English. False friends need to be avoided as well, since a Brazilian beginner will see "pretend" and assume he knows it means pretender, which actually means "intend." Interestingly, the no-Portuguese rule leaves the test with a strongly pronounced short Anglo-Saxon flavor.
+
+So, following these rules, we selected an even (logarithmic) series of ranking intervals to sample, and then took the first word we found at each point which didn't fall in any of the categories above. Sample spacing isn't perfect, but it's close. If we had made "personal" choices in including or skipping over sample words, then that would have the potential to systematically skew vocabulary results at particular levels, but we tried our best to impartially follow the guidelines above very carefully.
+
+You may ask—is it really necessary to exclude so many words? Shouldn't being able to figure out "unhappy" count as knowing the word? Well, this brings us to a final distinction: receptive vocabulary (the words we understand, but don't/can't use) versus productive vocabulary (the words we use in speaking and writing).
+
+Our receptive vocabulary is significantly larger than our productive vocabulary. In many ways, it acts as a "multiple" of our productive vocabulary, allowing us to recognize more words based on the words we already know. However, if we simply included all words we understand, we run the risk of an English speaker who has never heard a word of Spanish before, testing that he "knows" perhaps tens of thousands of Spanish words!
+
+We have no choice but to test receptive vocabulary, since testing productive vocabulary is much more difficult and time-consuming. But to produce truly meaningful vocabulary counts, we decided to test receptive vocabulary in a way that is much closer to productive vocabulary, by eliminating the "deducible" words as far as we can. Of course, our frequency ranks themselves include plenty of deducible words spread out throughout. So we figure that, if you know the neighboring non-deducible words, then you know the deducible ones too. But if you only know the deducible ones, then you haven't really "reached" that level of vocabulary yet, so they don't count.
+
+There are many other methods for counting vocabulary, of varying reliability, time and effort, and of differing levels of appropriateness depending on the final aims. We believe we have found a good "middle ground" test that is both fast and meaningful. But most importantly, whatever choices we have made should not affect the comparative goals of our research—comparing language acquisition at different levels of age and education, and comparing native speakers and foreign-language learners. And to produce a fun tool to show people how (linguistically) smart they are!
+
+## What is the margin of error?
+
+Short answer: ±10%.
+
+In other words, an estimate of 20,000 means your true vocabulary size lies somewhere between 18,000 and 22,000.
+
+Also note that all estimates above 10,000 are rounded to the nearest hundred, and estimates from 300–9,999 are rounded to the nearest ten.
+
+Long answer: To calculate the margin of error, we consider the vocabulary size as a "mean" value being sampled, where unknown words at ranks below the estimated vocabulary size are considered as sample points, as well as known words at ranks beyond the vocabulary size. Assuming that these sample points have a normal distribution (which they roughly do), the standard deviation is almost exactly 0.25 times the vocabulary size, with an average of 22.5 samples. Applying the formula for standard error, s / sqrt(n), yields 0.0527. Calculating the traditional 95% measure of confidence requires multiplication by 1.96, resulting in a total margin of error of ±10.33%.
+
+Our survey currently tests 120 words in its second phase (including words from the first phase that fall in the same testing interval). For comparison, reducing the margin of error to 5% would require an additional 380 words, and achieving a 1% margin of error would require a total of 12,000 words.
+
+As our survey participation grows, we will refine our error calculation, especially as we determine to what extent standard deviation and sample sizes grow or shrink with vocabulary size, as well as to what extent our consideration of sample points follows a normal distribution.
